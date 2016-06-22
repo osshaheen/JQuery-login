@@ -1,0 +1,62 @@
+.zero
+{
+    position: relative;
+}
+.first
+{
+    width: 350px;
+    margin:0px auto;
+    background-color:white;
+    height:1px;
+    border: 2px solid red;
+    font-size:20px;
+    position:relative;
+}
+.con-div
+{
+    margin: 100px auto 0px;
+    width: 220px;
+    height: inherit;
+}
+.text
+{
+    display: none;
+    width: 90%;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 2px;
+    position: relative;
+}
+.password
+{
+    display: none;
+    width: 90%;
+    background-color: white;
+    border: 1px solid black;
+    position: relative;
+}
+
+.login
+{
+    position: absolute;
+    margin-top: 25px;
+    margin-left: -450px;
+    width: 340px;
+    display: none;
+}
+
+.button
+{
+    background-color: white;
+    border: 1px solid black;
+    height: 28px;
+    float: right;
+    position: relative;
+}
+
+.h2
+{
+    margin:40px 135px 20px;
+    display: none;
+    position: absolute;
+}
